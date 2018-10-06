@@ -1,6 +1,8 @@
 # hello-world
 Learning Github
 
-hello peoples of the world, I'm my first hackathon right now and we need to learn about GitHub for our project,
-so here I am. One day actual projects will appear here!
+Hello People of the World,
+
+I'm Sophie, lover of Python, hammocks and yarn with the occasional horse thrown in.
+I'm here to learn more about coding and work on some awesome projects.
 
